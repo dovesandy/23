@@ -1,4 +1,4 @@
-![LOGO](https://github.com/dovesandy/23/blob/master/images/logo.png)
+![LOGO](https://github.com/dovesandy/23/blob/master/images/git/logo.png)
 ====
 #HOME
 ![home-1](https://github.com/dovesandy/23/blob/master/images/git/1.png)
